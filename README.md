@@ -15,8 +15,8 @@ Simply copy `droid.ini` on the Droid master's SD card and push the button
 
 ## Changes and new versions
 
-You can see the version of the patch at the top of the `droid.ini` file and
-changes are listed in the `CHANGELOG.md` file.
+You can see the version of the patch at the top of the [`droid.ini`](droid.ini) file and
+changes are listed in the [`CHANGELOG.md`](CHANGELOG.md) file.
 
 ## Find other Droid patch on Github
 
