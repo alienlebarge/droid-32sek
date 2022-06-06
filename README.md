@@ -4,7 +4,8 @@
 
 ## What can it do ?
 
-Don't know yet
+Sequence 4 drum voices and a 1 melodic voice.
+Take a look at [the code](droid.ini) for more info as it is a work in progress.
 
 ## Install
 
